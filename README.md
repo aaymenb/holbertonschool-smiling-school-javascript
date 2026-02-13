@@ -1,4 +1,4 @@
-# Holberton Smiling School (Bootstrap Project)
+# holbertonschool-smiling-school-javascript
 
 These group of web pages were coded from scratch with the help of the Boostrap Framework and based on some design models given on Figma.
 
@@ -9,6 +9,12 @@ These group of web pages were coded from scratch with the help of the Boostrap F
 [Figma Courses](https://www.figma.com/file/ivg3abH1HLmMayBgjGg1Qf/Courses)
 
 The designs were planned for Desktop, Tablet, and Mobile.
+
+## Interaction Notes:
+
+* Web pages must switch to the tablet version when the screen width is 768px
+* Web pages must switch to the mobile version when the screen width is 576px
+* button hover/active: opacity: 0.9
 
 # Homepage
 
@@ -72,6 +78,6 @@ The Holberton Smiling School web pages were developed by sections using the Boot
 
 [Footer](https://github.com/jzamora5/holberton-smiling-school/blob/master/courses.html)
 
-# Author:
+# Authors:
 
 Jhoan Zamora: [jzamora5](https://github.com/jzamora5)
